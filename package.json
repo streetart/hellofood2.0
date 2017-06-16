@@ -1,0 +1,12 @@
+{
+  "name": "hellofood2.0",
+  "version": "1.0.0",
+  "description": "Hellocomputer assessment project.",
+  "author": "Blaine Lingard",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
